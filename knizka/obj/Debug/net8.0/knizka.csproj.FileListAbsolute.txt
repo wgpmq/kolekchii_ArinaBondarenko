@@ -1,0 +1,14 @@
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\bin\Debug\net8.0\knizka.exe
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\bin\Debug\net8.0\knizka.deps.json
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\bin\Debug\net8.0\knizka.runtimeconfig.json
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\bin\Debug\net8.0\knizka.dll
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\bin\Debug\net8.0\knizka.pdb
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.AssemblyInfoInputs.cache
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.AssemblyInfo.cs
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.csproj.CoreCompileInputs.cache
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.dll
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\refint\knizka.dll
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.pdb
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\knizka.genruntimeconfig.cache
+C:\Users\wgpmq\Desktop\algoritnmi\knizka\knizka\obj\Debug\net8.0\ref\knizka.dll
